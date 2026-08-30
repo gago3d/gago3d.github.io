@@ -1,2 +1,4 @@
 # КУМАНОВО 3D
-https://gago3d.github.io/
+
+Јавен сајт: https://gago3d.github.io/
+Извор: https://github.com/gago3d/kumanovo
